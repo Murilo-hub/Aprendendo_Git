@@ -1,0 +1,24 @@
+Métodos Ágeis
+
+Sprint: Sprint, no framework Scrum, é um período de tempo limitado a um mês ou menos, no qual uma versão incremental e usável de um produto é desenvolvida.
+
+Product Backlog: corresponde ao backlog completo do produto final, já pronto.
+
+Sprint Planning: é a reunião do Scrum, na qual é feito o planejamento de um Sprint. O propósito da Sprint Planning é alinhar o time de desenvolvimento e o Product Owner.
+
+Sprint Backlog: é uma lista de atividades que precisam ser feitas durante uma Sprint.
+
+Daily Meeting: é uma ferramenta de processo ágil que consiste em uma reunião técnica diária, geralmente no início do dia.
+
+Sprint Review: é realizado ao final de cada Sprint. Nesse rito o time demonstra tudo que foi desenvolvido. 
+
+Sprint Retrospective: ocorre ao final de um Sprint e serve para identificar o que funcionou bem, o que pode ser melhorado e que ações serão tomadas para melhorar.
+
+Scrum Master: faz a facilitação do Scrum para equipes maiores garantindo que a estrutura seja seguida.
+
+Product Owner: um product owner é o “dono do produto”, ou seja, é aquele profissional responsável por agregar valor a um determinado projeto que uma empresa desenvolve.
+
+
+
+
+
