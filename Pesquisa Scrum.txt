@@ -16,7 +16,8 @@ Sprint Retrospective: ocorre ao final de um Sprint e serve para identificar o qu
 
 Scrum Master: faz a facilitação do Scrum para equipes maiores garantindo que a estrutura seja seguida.
 
-Product Owner: um product owner é o “dono do produto”, ou seja, é aquele profissional responsável por agregar valor a um determinado projeto que uma empresa desenvolve.
+Product Owner: um product owner é o “dono do produto”, ou seja, é aquele profissional responsável por agregar valor a um determinado projeto que uma empresa desenvolve. mine
+
 
 
 
